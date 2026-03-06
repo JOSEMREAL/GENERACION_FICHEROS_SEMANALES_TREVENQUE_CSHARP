@@ -1,0 +1,2 @@
+# GENERACION_FICHEROS_SEMANALES_TREVENQUE_CSHARP
+README — Generación, Exportación, Envío por Email y SFTP   
